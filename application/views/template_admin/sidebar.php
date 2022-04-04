@@ -32,8 +32,8 @@
                 </a>
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="<?php echo base_url('admin/data_pegawai') ?>">Data Pegawai</a>
-                        <a class="collapse-item" href="<?php echo base_url('admin/jabatan') ?>">Jabatan</a>
+                        <a class="collapse-item" href="<?php echo base_url('admin/dataPegawai') ?>">Data Pegawai</a>
+                        <a class="collapse-item" href="<?php echo base_url('admin/dataJabatan') ?>">Data Jabatan</a>
                     </div>
                 </div>
             </li>
@@ -48,7 +48,7 @@
                 <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities"
                     data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="<?php echo base_url('admin/absensi') ?>">Absensi</a>
+                        <a class="collapse-item" href="<?php echo base_url('admin/data_absensi') ?>">Data Absensi</a>
                         <a class="collapse-item" href="<?php echo base_url('admin/data_penggajian') ?>">Data Gaji</a>
 
                     </div>
@@ -118,7 +118,7 @@
                     </button>
 
                     <!-- Topbar Search -->
-                    <h2 class="font-weight-bold"> PT. NIKMAT GRUP </h2>
+                    <h2 class="font-weight-bold"> PT. GANESH CATURANGGA </h2>
 
                     <!-- Topbar Navbar -->
                     <ul class="navbar-nav ml-auto">
